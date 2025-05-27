@@ -1,0 +1,2 @@
+# collab-pactice
+This is just a simple website about llamas that you can use to practice collaborating on projects using Git and GitHub. Try adding pages, changing styling or changing content on pages as a team. Use branches and merging and remember, the master branch should always be deployable (i.e. a functional version of the site).
